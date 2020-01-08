@@ -1,0 +1,9 @@
+## Interface: 70000
+## Title: DemoTracker
+## Author: ArtfulCobra
+## Version: Alpha
+## Notes: Tracks the number of various demons active for demonology warlocks
+## X-Acknowledgement: Based on ElvUI_WildImps by Lockslap
+## X-License: MIT License
+
+DemoTracker.lua
